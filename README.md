@@ -2,7 +2,7 @@
 **Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
 
-# [0.2] TAXONOMIES & FINANCIAL LIFE ON EARTH
+# [0.2] TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT
 
 ## Why do Taxonomies matter?
 In the same way that everything is classified in life, from weights and measures to the Animal Kingdom, it is classification models, or taxonomies, that provide the foundations for sustainable finance data models. Having access to consistent taxonomy models is critical to the success and stability of the financial system. Read more at [Taxonomies on Wikipedia](https://en.wikipedia.org/wiki/Taxonomy).
