@@ -12,3 +12,11 @@ These taxonomy models may be seen as the building blocks of “financial life on
 3. **Age of Collaboration** - waiting for a single organisation to solve this is unrealistic, the idea that collaboration has a much greater chance of succeding sounds much more plausible.
 4. **Re-pricing** - which asset will go up and which will go down, which are over-valued ("rich"), which are undervalued ("cheap") determines success in financial markers.
 5. **The Big Green Short** - getting this pricing right means that one will know where to allocate capital and where to remove it. If one gets it right, then one has solved the risk of being long, wrong and insolvent. In other words, one has made "The Big Green Short" trade. It's rare and it's happening now.
+
+## The Big Green Short
+The Big Green Short was coined in Dec-2020 by Johnny Mattimore to encapsulate the change in prices due to sustainable finance practices becoming embedded in asset repricing by the financial system. It is based on the same idea as Teh Big Short coined in 2008 to explain how shorting the mrtgage market made huge profits when the rest of the market believed the prices of those mortgage would remain high. They di not. They collapsed and so did a large part of the financial system.
+
+Read more at:
+1. LinkedIn: Interview with Johnny Mattimore, Fintech Global, 09-Sep-2022 [The Big Green Short – what is it and why should we care?](https://member.fintech.global/2022/09/09/the-big-green-short-what-is-it-and-why-should-we-care/)
+2. LinkedIn: lots of articles [#thebiggreenshort](https://www.linkedin.com/feed/hashtag/?keywords=thebiggreenshort)
+3. LinkedIn: [Reminder: Crisis - 8 Days in 2008, by Johnny Mattimore](https://www.linkedin.com/pulse/reminder-crisis-8-days-2008-johnny-d-mattimore/)
