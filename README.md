@@ -12,13 +12,13 @@ These taxonomy models may be seen as the building blocks of “financial life on
 
 ## Example of a Cascade of Events
 1. **Economic Change** - if we are living through a period of fundamentation change that will impact the price of every asset on the planet, then knowing how prices will change is critical to managing financial stablity.
-2. **New Data Needs** - the consequnce is that to manage the change in prices, one must measure so one can monitor and then manage by taking decision on how to 
+2. **New Data Needs** - the consequnce is that to manage the change in prices, one must measure them so that one can monitor them and make decisions on which assets to favour and which to shun. 
 3. **Age of Collaboration** - waiting for a single organisation to solve this is unrealistic, the idea that collaboration has a much greater chance of succeding sounds much more plausible.
-4. **Re-pricing** - which asset will go up and which will go down, which are over-valued ("rich"), which are under-valued ("cheap") determines success in financial markets.
-5. **The Big Green Short** - getting this pricing right means that one will know where to allocate capital and where to remove it. If one gets it right, then one has solved the risk of being long, wrong and insolvent. In other words, one has made "The Big Green Short" trade. It's rare and it's happening now.
+4. **Re-pricing** - which asset will go down and which will go up, or which are over-valued ("rich") and which are under-valued ("cheap"), determines success in financial markets.
+5. **The Big Green Short** - getting this pricing right means that one will know where to allocate capital and where to remove it. If one gets it right, then one has solved the risk of being long, wrong and potentially insolvent. In other words, one has made "The Big Green Short" trade. It's rare and it's happening now.
 
-## The Big Green Short
-The Big Green Short was coined in Dec-2020 by Johnny Mattimore to encapsulate the change in prices due to sustainable finance practices becoming embedded in asset repricing by the financial system. It is based on the same idea as The Big Short coined in 2008 to explain how shorting the mortgage market made huge profits when the rest of the market believed the prices of those mortgage would remain high. They did not. They collapsed and so did a large part of the financial system.
+## What is The Big Green Short?
+*[The Big Green Short](https://www.linkedin.com/posts/johnny-d-mattimore-082969136_commentary-esg-investing-needs-standards-activity-6877604641610231808-Dk6h?utm_source=share&utm_medium=member_desktop)* was coined in Dec-2020 by Johnny Mattimore to encapsulate the change in prices due to sustainable finance practices becoming embedded in asset repricing by the financial system. It is based on the same idea as *[The Big Short](https://en.wikipedia.org/wiki/The_Big_Short)* coined by the author [Michael Leiws](https://en.wikipedia.org/wiki/Michael_Lewis) and the title of his book in 2010. His book explained how shorting the mortgage market made huge profits when the rest of the market believed the prices of those mortgage would remain high - they did not. Prices collapsed and so did a large part of the financial system - they were "long, wrong and insolvent".
 
 Read more at:
 1. LinkedIn: Interview with Johnny Mattimore, Fintech Global, 09-Sep-2022 [The Big Green Short – what is it and why should we care?](https://member.fintech.global/2022/09/09/the-big-green-short-what-is-it-and-why-should-we-care/)
