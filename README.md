@@ -40,8 +40,8 @@
 ## Why do Taxonomies matter?
 In the same way that everything is classified in life, from weights and measures to the Animal Kingdom, it is classification models, or taxonomies, that provide the foundations for sustainable finance data models. Having access to consistent taxonomy models is critical to the success and stability of the financial system. Read more at [Taxonomies on Wikipedia](https://en.wikipedia.org/wiki/Taxonomy).
  
-## The Building Blocks of “Financial Life on Earth”
-These taxonomy models may be seen as the building blocks of “financial life on earth” - the rules by which the future financial system is designed, built and managed. The earliest stages of these building blocks are around environmental data, in particular carbon emissions data. However, this is only the beginning and OS-SFT has been conceived to support the financial markets openly as data requirements expand significantly beyond carbon across all sorts of new data requirements: greenhouse gas, environmental, societal, governance, climate, offsets, financial instruments and more. 
+## The Building Blocks of Financial "Life on Earth”
+These taxonomy models may be seen as the building blocks of financial "life on earth” - the rules by which the future financial system is designed, built and managed. The earliest stages of these building blocks are around environmental data, in particular carbon emissions data. However, this is only the beginning and OS-SFT has been conceived to support the financial markets openly as data requirements expand significantly beyond carbon across all sorts of new data requirements: greenhouse gas, environmental, societal, governance, climate, offsets, financial instruments and more. 
 
 ## Example of a Cascade of Events
 1. **Economic Change** - if we are living through a period of fundamentation change that will impact the price of every asset on the planet, then knowing how prices will change is critical to managing financial stablity.
