@@ -45,7 +45,7 @@ These taxonomy models may be seen as the building blocks of financial "life on e
 
 ## Example of a Cascade of Events
 1. **Economic Change** - if we are living through a period of fundamentation change that will impact the price of every asset on the planet, then knowing how prices will change is critical to managing financial stablity.
-2. **New Data Needs** - the consequnce is that to manage the change in prices, one must measure them so that one can monitor them and make decisions on which assets to favour and which to shun. 
+2. **New Data Needs** - the consequence is that to manage the change in prices, one must measure them so that one can monitor them and make decisions on which assets to favour and which to shun. 
 3. **Age of Collaboration** - waiting for a single organisation to solve this is unrealistic, the idea that collaboration has a much greater chance of succeding sounds much more plausible.
 4. **Re-pricing** - which asset will go down and which will go up, or which are over-valued ("rich") and which are under-valued ("cheap"), determines success in financial markets.
 5. **The Big Green Short** - getting this pricing right means that one will know where to allocate capital and where to remove it. If one gets it right, then one has solved the risk of being long, wrong and potentially insolvent. In other words, one has made "The Big Green Short" trade. It's rare and it's happening now.
