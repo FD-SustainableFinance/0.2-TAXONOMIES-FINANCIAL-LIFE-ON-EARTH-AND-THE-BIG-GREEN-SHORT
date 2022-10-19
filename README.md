@@ -44,9 +44,9 @@ In the same way that everything is classified in life, from weights and measures
 These taxonomy models may be seen as the building blocks of "Financial Life on Earth” - the rules by which the future financial system is designed, built and managed. The earliest stages of these building blocks are around environmental data, in particular carbon emissions data. However, this is only the beginning and OS-SFT has been conceived to support the financial markets openly as data requirements expand significantly beyond carbon across all sorts of new data requirements: greenhouse gas, environmental, societal, governance, climate, offsets, financial instruments and more. 
 
 ## Example of a Cascade of Events
-1. **Economic Change** - if we are living through a period of fundamentation change that will impact the price of every asset on the planet, then knowing how prices will change is critical to managing financial stablity.
+1. **Economic Change** - if we are living through a period of fundamental change that will impact the price of every asset on the planet, then knowing how prices will change is critical to managing financial stability.
 2. **New Data Needs** - the consequence is that to manage the change in prices, one must measure them so that one can monitor them and make decisions on which assets to favour and which to shun. 
-3. **Age of Collaboration** - waiting for a single organisation to solve this is unrealistic, the idea that collaboration has a much greater chance of succeding sounds much more plausible.
+3. **Age of Collaboration** - waiting for a single organisation to solve this is unrealistic, the idea that collaboration has a much greater chance of succeeding sounds much more plausible.
 4. **Re-pricing** - which asset will go down and which will go up, or which are over-valued ("rich") and which are under-valued ("cheap"), determines success in financial markets.
 5. **The Big Green Short** - getting this pricing right means that one will know where to allocate capital and where to remove it. If one gets it right, then one has solved the risk of being long, wrong and potentially insolvent. In other words, one has made "The Big Green Short" trade. It's rare and it's happening now.
 
